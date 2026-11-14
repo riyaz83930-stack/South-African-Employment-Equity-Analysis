@@ -10,6 +10,66 @@ After cleaning, restructuring and integration, the workforce profile contained 4
 
 The analysis identified substantial differences in demographic and gender representation, changes in workforce composition over time, concentration of reported workforce counts in particular occupational levels, and highly skewed workforce distributions.
 
+# Data Quality Findings & Cleaning Decisions
+
+During data inspection and preparation, several data-quality conditions were identified and investigated. Cleaning decisions were made based on the meaning and structure of the data rather than applying automatic replacements or deletions.
+
+## - Missing Values-
+
+- No missing values were identified in the numerical workforce columns.
+- Missing values in string/object columns were retained as null rather than replaced with artificial values.
+- No unnecessary imputation was performed.
+
+## -Zero-Value Records-
+
+A total of 7,678 records out of 42,000 had zero values across all ten demographic and gender workforce columns.
+
+- These records were retained.
+- Zero values were not treated as missing values.
+- They may represent employers or occupational groups with no reported workforce in those demographic categories.
+
+## -Negative Values-
+
+No negative values were identified in the inspected numerical workforce columns. Therefore, no negative-value corrections were required.
+
+## -Duplicate Records-
+
+Exact duplicate records were checked during data-quality inspection. No exact duplicate records were identified in the cleaned workforce profile.
+
+Repeated employer references were retained because an employer can have multiple reporting years and occupational-level records.
+
+## -Orphan Records and Metadata Matching-
+
+The workforce profile and employer metadata were integrated using employer reference and reporting year.
+
+- Workforce profile records before merge: 42,000
+- Records after merge: 42,000
+- Unmatched metadata records: 0
+- Duplicate employer-year keys in restructured metadata: 0
+
+The merge preserved all workforce profile records and successfully matched their employer-year metadata.
+
+## -Outlier Investigation-
+
+The IQR method identified unusually high workforce counts across several demographic columns. However, some columns had an IQR of zero because most observations were zero.
+
+Consequently, positive values in these columns were flagged as outliers even when they could represent genuine workforce counts.
+
+Further investigation was conducted at employer and reporting-year level. Unusual values were retained where no evidence of data error was established.
+
+## -Overall Cleaning Decisions-
+
+Data Quality Check| Observation| Decision
+Missing numerical values| None identified| No imputation required
+Missing string values| Present in some fields| Retained as null
+All-zero workforce rows| 7,678| Retained
+Negative workforce values| None identified| No correction required
+Exact duplicate records| None identified| No deletion required
+Unmatched metadata records| 0| Merge validated
+Unusual workforce values| Identified| Investigated, not automatically removed
+
+Key takeaway: The cleaning process prioritised data integrity. Missing values, genuine zeros and statistical outliers were treated as separate conditions. Records were not deleted or modified without sufficient evidence of an actual data error.
+
 ## 2. Key Findings
 
 ### 2.1 Workforce Concentration Across Occupational Levels
