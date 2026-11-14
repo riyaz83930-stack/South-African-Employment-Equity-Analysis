@@ -1,0 +1,421 @@
+
+                    --------------------------------------------------------------------------------
+                    African_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 4.0
+                    IQR: 4.0
+                    Lower Bound: -6.0
+                    Upper Bound: 10.0
+                    Lower Whisker: 0
+                    Upper Whisker: 10
+                    Outliers Count: 6535
+                    Outliers Percentage: 15.559523809523808
+                    
+                    --------------------------------------------------------------------------------
+                    African_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 1.0
+                    Q3: 8.0
+                    IQR: 8.0
+                    Lower Bound: -12.0
+                    Upper Bound: 20.0
+                    Lower Whisker: 0
+                    Upper Whisker: 20
+                    Outliers Count: 6875
+                    Outliers Percentage: 16.36904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Coloured_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 1.0
+                    IQR: 1.0
+                    Lower Bound: -1.5
+                    Upper Bound: 2.5
+                    Lower Whisker: 0
+                    Upper Whisker: 2
+                    Outliers Count: 5573
+                    Outliers Percentage: 13.269047619047619
+                    
+                    --------------------------------------------------------------------------------
+                    Coloured_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 1.0
+                    IQR: 1.0
+                    Lower Bound: -1.5
+                    Upper Bound: 2.5
+                    Lower Whisker: 0
+                    Upper Whisker: 2
+                    Outliers Count: 6626
+                    Outliers Percentage: 15.776190476190477
+                    
+                    --------------------------------------------------------------------------------
+                    Foreign_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 2901
+                    Outliers Percentage: 6.9071428571428575
+                    
+                    --------------------------------------------------------------------------------
+                    Foriegn_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 5846
+                    Outliers Percentage: 13.91904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Indian_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 7379
+                    Outliers Percentage: 17.56904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Indian_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 8746
+                    Outliers Percentage: 20.823809523809526
+                    
+                    --------------------------------------------------------------------------------
+                    White_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 2.0
+                    IQR: 2.0
+                    Lower Bound: -3.0
+                    Upper Bound: 5.0
+                    Lower Whisker: 0
+                    Upper Whisker: 5
+                    Outliers Count: 4685
+                    Outliers Percentage: 11.154761904761905
+                    
+                    --------------------------------------------------------------------------------
+                    White_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 3.0
+                    IQR: 3.0
+                    Lower Bound: -4.5
+                    Upper Bound: 7.5
+                    Lower Whisker: 0
+                    Upper Whisker: 7
+                    Outliers Count: 4812
+                    Outliers Percentage: 11.457142857142857
+                    
+                    --------------------------------------------------------------------------------
+                    African_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 4.0
+                    IQR: 4.0
+                    Lower Bound: -6.0
+                    Upper Bound: 10.0
+                    Lower Whisker: 0
+                    Upper Whisker: 10
+                    Outliers Count: 6535
+                    Outliers Percentage: 15.559523809523808
+                    
+                    --------------------------------------------------------------------------------
+                    African_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 1.0
+                    Q3: 8.0
+                    IQR: 8.0
+                    Lower Bound: -12.0
+                    Upper Bound: 20.0
+                    Lower Whisker: 0
+                    Upper Whisker: 20
+                    Outliers Count: 6875
+                    Outliers Percentage: 16.36904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Coloured_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 1.0
+                    IQR: 1.0
+                    Lower Bound: -1.5
+                    Upper Bound: 2.5
+                    Lower Whisker: 0
+                    Upper Whisker: 2
+                    Outliers Count: 5573
+                    Outliers Percentage: 13.269047619047619
+                    
+                    --------------------------------------------------------------------------------
+                    Coloured_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 1.0
+                    IQR: 1.0
+                    Lower Bound: -1.5
+                    Upper Bound: 2.5
+                    Lower Whisker: 0
+                    Upper Whisker: 2
+                    Outliers Count: 6626
+                    Outliers Percentage: 15.776190476190477
+                    
+                    --------------------------------------------------------------------------------
+                    Foreign_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 2901
+                    Outliers Percentage: 6.9071428571428575
+                    
+                    --------------------------------------------------------------------------------
+                    Foriegn_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 5846
+                    Outliers Percentage: 13.91904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Indian_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 7379
+                    Outliers Percentage: 17.56904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Indian_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 8746
+                    Outliers Percentage: 20.823809523809526
+                    
+                    --------------------------------------------------------------------------------
+                    White_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 2.0
+                    IQR: 2.0
+                    Lower Bound: -3.0
+                    Upper Bound: 5.0
+                    Lower Whisker: 0
+                    Upper Whisker: 5
+                    Outliers Count: 4685
+                    Outliers Percentage: 11.154761904761905
+                    
+                    --------------------------------------------------------------------------------
+                    White_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 3.0
+                    IQR: 3.0
+                    Lower Bound: -4.5
+                    Upper Bound: 7.5
+                    Lower Whisker: 0
+                    Upper Whisker: 7
+                    Outliers Count: 4812
+                    Outliers Percentage: 11.457142857142857
+                    
+                    --------------------------------------------------------------------------------
+                    African_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 4.0
+                    IQR: 4.0
+                    Lower Bound: -6.0
+                    Upper Bound: 10.0
+                    Lower Whisker: 0
+                    Upper Whisker: 10
+                    Outliers Count: 6535
+                    Outliers Percentage: 15.559523809523808
+                    
+                    --------------------------------------------------------------------------------
+                    African_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 1.0
+                    Q3: 8.0
+                    IQR: 8.0
+                    Lower Bound: -12.0
+                    Upper Bound: 20.0
+                    Lower Whisker: 0
+                    Upper Whisker: 20
+                    Outliers Count: 6875
+                    Outliers Percentage: 16.36904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Coloured_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 1.0
+                    IQR: 1.0
+                    Lower Bound: -1.5
+                    Upper Bound: 2.5
+                    Lower Whisker: 0
+                    Upper Whisker: 2
+                    Outliers Count: 5573
+                    Outliers Percentage: 13.269047619047619
+                    
+                    --------------------------------------------------------------------------------
+                    Coloured_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 1.0
+                    IQR: 1.0
+                    Lower Bound: -1.5
+                    Upper Bound: 2.5
+                    Lower Whisker: 0
+                    Upper Whisker: 2
+                    Outliers Count: 6626
+                    Outliers Percentage: 15.776190476190477
+                    
+                    --------------------------------------------------------------------------------
+                    Foreign_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 2901
+                    Outliers Percentage: 6.9071428571428575
+                    
+                    --------------------------------------------------------------------------------
+                    Foriegn_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 5846
+                    Outliers Percentage: 13.91904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Indian_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 7379
+                    Outliers Percentage: 17.56904761904762
+                    
+                    --------------------------------------------------------------------------------
+                    Indian_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 0.0
+                    IQR: 0.0
+                    Lower Bound: 0.0
+                    Upper Bound: 0.0
+                    Lower Whisker: 0
+                    Upper Whisker: 0
+                    Outliers Count: 8746
+                    Outliers Percentage: 20.823809523809526
+                    
+                    --------------------------------------------------------------------------------
+                    White_Female Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 2.0
+                    IQR: 2.0
+                    Lower Bound: -3.0
+                    Upper Bound: 5.0
+                    Lower Whisker: 0
+                    Upper Whisker: 5
+                    Outliers Count: 4685
+                    Outliers Percentage: 11.154761904761905
+                    
+                    --------------------------------------------------------------------------------
+                    White_Male Details
+                    --------------------------------------------------------------------------------
+                    Q1: 0.0
+                    Q2: 0.0
+                    Q3: 3.0
+                    IQR: 3.0
+                    Lower Bound: -4.5
+                    Upper Bound: 7.5
+                    Lower Whisker: 0
+                    Upper Whisker: 7
+                    Outliers Count: 4812
+                    Outliers Percentage: 11.457142857142857
+                    

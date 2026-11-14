@@ -1,0 +1,11 @@
+column_name,average,minimum_value,maximum_value,Q1,Q3,IQR,lower_bound,upper_bound
+African_Female,42.93,0,73872,0.0,4.0,4.0,-6.0,10.0
+African_Male,39.22,0,22317,0.0,8.0,8.0,-12.0,20.0
+Coloured_Female,3.69,0,1180,0.0,1.0,1.0,-1.5,2.5
+Coloured_Male,4.11,0,1504,0.0,1.0,1.0,-1.5,2.5
+Foreign_Female,0.37,0,357,0.0,0.0,0.0,0.0,0.0
+Foriegn_Male,0.84,0,422,0.0,0.0,0.0,0.0,0.0
+Indian_Female,3.43,0,5941,0.0,0.0,0.0,0.0,0.0
+Indian_Male,3.17,0,2280,0.0,0.0,0.0,0.0,0.0
+White_Female,4.05,0,2385,0.0,2.0,2.0,-3.0,5.0
+White_Male,5.17,0,543,0.0,3.0,3.0,-4.5,7.5
